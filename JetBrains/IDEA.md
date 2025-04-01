@@ -41,3 +41,12 @@
 ![image](https://github.com/user-attachments/assets/c67df00f-ba33-423c-888d-588adce43044)
 # 21、注释开头添加空格
 ![image](https://github.com/user-attachments/assets/108ba062-7f03-4608-99eb-62e89c9c2860)
+
+# Plugins
+1、Dracula Theme
+2、Rainbow Brackets
+3、EasyCode
+4、Maven Helper
+5、Translation
+6、MyBatisX
+7、Alibaba Java Coding Guidelines
