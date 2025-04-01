@@ -44,9 +44,15 @@
 
 # Plugins
 1、Dracula Theme
+
 2、Rainbow Brackets
+
 3、EasyCode
+
 4、Maven Helper
+
 5、Translation
+
 6、MyBatisX
+
 7、Alibaba Java Coding Guidelines
